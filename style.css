@@ -172,7 +172,7 @@ header .header-content-loginform select{
    header .content-loginform-item-form input{
     height: 4rem;
     font-size: large;
-    width: 22rem;
+    width: 25rem;
     padding-left: 2rem;
     border-radius: 5px;
    
@@ -267,7 +267,7 @@ padding-right:10%;
 }
 .categories-menu-content{
     box-sizing: border-box;
-
+    cursor: pointer;
     display: flex;
     flex-direction: column;
     align-items: center;
